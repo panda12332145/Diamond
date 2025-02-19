@@ -1,6 +1,6 @@
 # Módulo de Análise Avançada de Processador
 
-<img src="https://cdn.discordapp.com/attachments/819987792389603368/1339691506398658684/98e42633-bb0e-4566-9b65-cd87c47d2f23_1.webp?ex=67afa471&is=67ae52f1&hm=c5fd158c2a2c31a605e598ed1e35615d84994440494adc9ad509b2fe82fa289c&" alt="This is an alt text." width="200" height="200"/>
+<img src="icon1.png" alt="This is an alt text." width="200" height="200"/>
 
 ## Visão Geral do Projeto
 Módulo Python para coleta abrangente de dados técnicos de processadores, fornecendo insights detalhados sobre capacidades de hardware, desempenho em tempo real e características arquiteturais. Desenvolvido para integração em sistemas de monitoramento, ferramentas de diagnóstico e aplicações de gestão de infraestrutura.
@@ -230,7 +230,7 @@ python processor_analyzer.py > output.json
 
 ## Module for Advanced Analysis of Processors and Computing (MAAPC)
 
-<img src="https://cdn.discordapp.com/attachments/819987792389603368/1339702303057379410/1600x2350.png?ex=67afae7f&is=67ae5cff&hm=6dfbf4efa34ddc4bfc56fe62008b35fe6e79cd1076aaf2d4113d6265035bd8d8&" alt="Diagrama de Arquitetura" width="250" height="250"/>
+<img src="icon2.png" alt="Diagrama de Arquitetura" width="250" height="250"/>
 
 ## Visão Geral do Projeto
 
